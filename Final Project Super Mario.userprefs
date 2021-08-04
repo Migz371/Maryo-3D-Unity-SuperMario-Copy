@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\FireFlower.cs">
+    <Files>
+      <File FileName="Assets\Script\Menu.cs" Line="17" Column="20" />
+      <File FileName="Assets\Script\Player.cs" Line="4" Column="1" />
+      <File FileName="Assets\Script\Enemy.cs" Line="82" Column="4" />
+      <File FileName="Assets\Script\SoundManager.cs" Line="19" Column="2" />
+      <File FileName="Assets\HeadDetect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Nonbreakblocks.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Pipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\UI.cs" Line="21" Column="13" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\FPS implementation\TargetScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\QuestionBlocks.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mushroom.cs" Line="34" Column="5" />
+      <File FileName="Assets\Script\QuestionBlocksCoins.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FireFlower.cs" Line="27" Column="5" />
+      <File FileName="Assets\Script\Crown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FireBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FireBallBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Flag.cs" Line="25" Column="26" />
+      <File FileName="Assets\Script\Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\KnockBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameOver.cs" Line="9" Column="3" />
+      <File FileName="Assets\Script\falllevel.cs" Line="34" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
